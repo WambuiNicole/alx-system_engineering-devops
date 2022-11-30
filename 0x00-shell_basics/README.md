@@ -1,1 +1,1 @@
-1)This file shows the absolute path of thecurrent working directory
+2)This one lists the contents of the current directory
