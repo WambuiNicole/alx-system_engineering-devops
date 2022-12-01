@@ -1,1 +1,1 @@
-6)allows x for owner and group owner
+7)everybody can x
