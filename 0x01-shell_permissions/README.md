@@ -1,1 +1,1 @@
-7)everybody can x
+user only rwx
