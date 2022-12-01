@@ -1,1 +1,1 @@
-user only rwx
+12)my_dir
