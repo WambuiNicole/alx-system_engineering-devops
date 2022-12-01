@@ -1,1 +1,1 @@
-Learnining shell permissions
+1)who am i
