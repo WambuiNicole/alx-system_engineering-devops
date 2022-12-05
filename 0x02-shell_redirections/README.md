@@ -1,1 +1,1 @@
-3)concatenating files
+4)display last 10 lines
