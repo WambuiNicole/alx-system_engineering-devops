@@ -1,1 +1,1 @@
-smiley
+2)display file contents
