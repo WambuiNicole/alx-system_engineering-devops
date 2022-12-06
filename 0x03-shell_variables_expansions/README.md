@@ -1,1 +1,1 @@
-7)creates global variable
+8)trueknowledge
