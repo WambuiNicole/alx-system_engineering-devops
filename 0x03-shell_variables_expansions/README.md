@@ -1,1 +1,1 @@
-6)declare
+7)creates global variable
