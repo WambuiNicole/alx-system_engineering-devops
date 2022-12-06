@@ -1,1 +1,1 @@
-9)power/divide
+10)power raised to love
