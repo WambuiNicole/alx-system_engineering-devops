@@ -1,1 +1,1 @@
-5)lists variables and functions
+6)declare
