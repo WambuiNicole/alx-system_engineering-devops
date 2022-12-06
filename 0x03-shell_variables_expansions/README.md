@@ -1,1 +1,1 @@
-counting directories in PATH
+5)lists variables and functions
