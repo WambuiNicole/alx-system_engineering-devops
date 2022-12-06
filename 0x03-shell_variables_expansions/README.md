@@ -1,1 +1,1 @@
-10)power raised to love
+11)binary to decimal
