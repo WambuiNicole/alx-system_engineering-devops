@@ -1,1 +1,1 @@
-8)trueknowledge
+9)power/divide
