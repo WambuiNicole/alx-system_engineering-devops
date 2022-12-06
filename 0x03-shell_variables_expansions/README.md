@@ -1,1 +1,1 @@
-0-alias for rm *
+1)hello $user
