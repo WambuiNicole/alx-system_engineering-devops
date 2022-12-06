@@ -1,1 +1,1 @@
-1)hello $user
+2)adding /action to path
